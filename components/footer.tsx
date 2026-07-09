@@ -97,7 +97,7 @@ export default function Footer() {
 
       {/* Footer Bottom */}
       <div className="max-w-7xl mx-auto px-6 md:px-12 border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between text-[10px] text-white/30 tracking-widest uppercase gap-4">
-        <span>© {new Date().getFullYear()} BASIC CLOTHING INC. ALL RIGHTS RESERVED.</span>
+        <span>© {new Date().getFullYear()} BASIC CLOTHING INC. ALL RIGHTS RESERVED. DESIGNED & DEVELOPED BY <a href="https://portfolio-chi-rosy-63.vercel.app/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors cursor-none underline">BADHAN CHOWDHURY</a>.</span>
         
         {/* Payment Icons */}
         <div className="flex items-center space-x-4">
